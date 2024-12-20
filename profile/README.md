@@ -78,8 +78,8 @@
 
 <table>
   <tr>
-    <td><img width="226" alt="캘린더" src="https://github.com/user-attachments/assets/32d3506d-d1a5-4b54-b7da-57fc3b919051" /></td>
-    <td><img width="226" alt="통계" src="https://github.com/user-attachments/assets/96e53f39-beac-48e4-bed9-ffb97e75cf01" /></td>
+    <td><img width="200" alt="캘린더" src="https://github.com/user-attachments/assets/32d3506d-d1a5-4b54-b7da-57fc3b919051" /></td>
+    <td><img width="200" alt="통계" src="https://github.com/user-attachments/assets/96e53f39-beac-48e4-bed9-ffb97e75cf01" /></td>
   </tr>
   <tr>
     <td align="center"><b>캘린더</b></td>
@@ -88,6 +88,8 @@
 </table>
 
 ### 시스템 아키텍처
+<img src="https://github.com/user-attachments/assets/b3f5a466-8449-44f8-8947-9e8a31ab8e94" width="700">
+
 
 ### 기술  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
