@@ -89,6 +89,8 @@
 
 ### 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/b3f5a466-8449-44f8-8947-9e8a31ab8e94" width="700">
+<img width="951" alt="스크린샷 2025-02-06 오후 9 32 13" src="https://github.com/user-attachments/assets/e61cd04a-a2a0-44ac-8afc-e0cc708d050f" />
+
 
 ### ERD
 ![image](https://github.com/user-attachments/assets/709c8ac8-9e3e-4ef8-a476-8aeea136f31b)
